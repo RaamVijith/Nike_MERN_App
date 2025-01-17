@@ -7,7 +7,7 @@ This repo aims to design and develop for Nike shoping full stack app using MERN 
 
 
 If you like this Repo, Please click the :star:
-<img width="1050px;" height="650px" src="https://github.com/RaamVijith/react-streaming-app-task/blob/main/src/assets/demo-video.gif"/>
+<img height="650px" src="https://github.com/RaamVijith/react-streaming-app-task/blob/main/src/assets/demo-video.gif"/>
 
 <img width="450px;" src="https://github.com/RaamVijith/Nike_MERN_App/blob/main/Assets/nike%20app%20image%20(2).jpg?raw=true"/>
 <img width="450px;" src="https://github.com/RaamVijith/Nike_MERN_App/blob/main/Assets/nike%20app%20image%20(3).jpg?raw=true"/>
